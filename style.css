@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    background-color: bisque;
+}
+.container{
+    margin-top: 40px;
+}
+
+.box{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    margin: 1.5rem;
+}
+
+.mat{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+
+
+.red{
+    background-color: rgb(230, 109, 109);
+}
+.yellow{
+    background-color: rgb(165, 165, 90);
+}
+.green{
+    background-color: rgb(108, 172, 108);
+}
+.purple{
+    background-color: rgb(167, 107, 167);
+}
+
+.flash{
+    background-color: white;
+}
+
+.red{
+    background-color: red;
+}
